@@ -147,31 +147,38 @@ cv2.destroyAllWindows()
 
 ## OUTPUT:
 ### original image
-![origi](https://github.com/JEEVAABI/IMPLEMENTATION-OF-FILTERSS/assets/93427098/6b6f4f09-8bae-4ef1-93a5-ee1da10d483f)
+![image](https://github.com/user-attachments/assets/7deaa419-a38c-4253-a455-628dac194c7d)
+
 
 ### 1. Smoothing Filters
 
 
 i) Using Averaging Filter
-![boxfil](https://github.com/JEEVAABI/IMPLEMENTATION-OF-FILTERSS/assets/93427098/8f969c65-4629-4957-98ed-cf08a1dea710)
+![image](https://github.com/user-attachments/assets/e8a9ed82-bd84-40b3-be05-774c8a469a42)
+
 
 ii) Using Weighted Averaging Filter
-![weight](https://github.com/JEEVAABI/IMPLEMENTATION-OF-FILTERSS/assets/93427098/ccce2e3c-1dde-476e-9a7e-b4e306052810)
+![image](https://github.com/user-attachments/assets/85738455-8b76-4188-a4cc-8db7636cf77e)
+
 
 iii) Using Gaussian Filter
-![gauss](https://github.com/JEEVAABI/IMPLEMENTATION-OF-FILTERSS/assets/93427098/069b5660-8536-4499-81ae-242970b0ed66)
+![image](https://github.com/user-attachments/assets/8c4e7e10-0923-4f82-bffe-cc2bc7f4be1e)
+
 
 iv) Using Median Filter
-![median](https://github.com/JEEVAABI/IMPLEMENTATION-OF-FILTERSS/assets/93427098/7a79815a-4848-4f9a-92e4-28b3cd7ec281)
+![image](https://github.com/user-attachments/assets/f9c6b163-7ba5-4f0d-8ba0-377f30b8233f)
+
 
 ### 2. Sharpening Filters
 </br>
 
 i) Using Laplacian Kernal
-![kernal](https://github.com/JEEVAABI/IMPLEMENTATION-OF-FILTERSS/assets/93427098/177f6248-52c5-4fe6-9665-dd3bdbbcd9a9)
+![image](https://github.com/user-attachments/assets/8efc6aa2-4086-4245-b12a-16f7ef8c84df)
+
 
 ii) Using Laplacian Operator
-![laplacian](https://github.com/JEEVAABI/IMPLEMENTATION-OF-FILTERSS/assets/93427098/151d4d05-514b-441b-9168-d2ac40fc29f0)
+![image](https://github.com/user-attachments/assets/7ce0bb20-dfad-4119-9d92-9ca9b28d812c)
+
 
 
 ## Result:
